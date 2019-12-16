@@ -1,0 +1,176 @@
+[1/16] tulp3_hs...
+   tulp3_ms... LCS Length: 329
+   tulp3_gg20... LCS Length: 313
+   tulp3_xt... LCS Length: 297
+   tulp3_cf... LCS Length: 337
+   tulp3_pt... LCS Length: 269
+   tulp3_bt... LCS Length: 329
+   tulp3_rn... LCS Length: 337
+   tulp3_mm... LCS Length: 422
+   tulp3_dr... LCS Length: 164
+   DmKINGTUBBY... LCS Length: 246
+   CeTUB-1... LCS Length: 224
+   AtTLP7... LCS Length: 177
+   AtTLP10... LCS Length: 187
+   AtTLP5... LCS Length: 181
+   AtTLP2... LCS Length: 180
+()
+[2/16] tulp3_ms...
+   tulp3_gg20... LCS Length: 349
+   tulp3_xt... LCS Length: 322
+   tulp3_cf... LCS Length: 380
+   tulp3_pt... LCS Length: 186
+   tulp3_bt... LCS Length: 384
+   tulp3_rn... LCS Length: 443
+   tulp3_mm... LCS Length: 333
+   tulp3_dr... LCS Length: 178
+   DmKINGTUBBY... LCS Length: 253
+   CeTUB-1... LCS Length: 232
+   AtTLP7... LCS Length: 175
+   AtTLP10... LCS Length: 193
+   AtTLP5... LCS Length: 181
+   AtTLP2... LCS Length: 179
+()
+[3/16] tulp3_gg20...
+   tulp3_xt... LCS Length: 320
+   tulp3_cf... LCS Length: 353
+   tulp3_pt... LCS Length: 172
+   tulp3_bt... LCS Length: 354
+   tulp3_rn... LCS Length: 355
+   tulp3_mm... LCS Length: 317
+   tulp3_dr... LCS Length: 184
+   DmKINGTUBBY... LCS Length: 254
+   CeTUB-1... LCS Length: 228
+   AtTLP7... LCS Length: 179
+   AtTLP10... LCS Length: 198
+   AtTLP5... LCS Length: 184
+   AtTLP2... LCS Length: 183
+()
+[4/16] tulp3_xt...
+   tulp3_cf... LCS Length: 317
+   tulp3_pt... LCS Length: 168
+   tulp3_bt... LCS Length: 332
+   tulp3_rn... LCS Length: 323
+   tulp3_mm... LCS Length: 296
+   tulp3_dr... LCS Length: 192
+   DmKINGTUBBY... LCS Length: 263
+   CeTUB-1... LCS Length: 234
+   AtTLP7... LCS Length: 185
+   AtTLP10... LCS Length: 197
+   AtTLP5... LCS Length: 194
+   AtTLP2... LCS Length: 183
+()
+[5/16] tulp3_cf...
+   tulp3_pt... LCS Length: 193
+   tulp3_bt... LCS Length: 385
+   tulp3_rn... LCS Length: 383
+   tulp3_mm... LCS Length: 339
+   tulp3_dr... LCS Length: 176
+   DmKINGTUBBY... LCS Length: 252
+   CeTUB-1... LCS Length: 226
+   AtTLP7... LCS Length: 178
+   AtTLP10... LCS Length: 191
+   AtTLP5... LCS Length: 182
+   AtTLP2... LCS Length: 179
+()
+[6/16] tulp3_pt...
+   tulp3_bt... LCS Length: 188
+   tulp3_rn... LCS Length: 194
+   tulp3_mm... LCS Length: 258
+   tulp3_dr... LCS Length: 161
+   DmKINGTUBBY... LCS Length: 141
+   CeTUB-1... LCS Length: 123
+   AtTLP7... LCS Length: 113
+   AtTLP10... LCS Length: 121
+   AtTLP5... LCS Length: 119
+   AtTLP2... LCS Length: 114
+()
+[7/16] tulp3_bt...
+   tulp3_rn... LCS Length: 386
+   tulp3_mm... LCS Length: 333
+   tulp3_dr... LCS Length: 178
+   DmKINGTUBBY... LCS Length: 257
+   CeTUB-1... LCS Length: 230
+   AtTLP7... LCS Length: 177
+   AtTLP10... LCS Length: 197
+   AtTLP5... LCS Length: 186
+   AtTLP2... LCS Length: 183
+()
+[8/16] tulp3_rn...
+   tulp3_mm... LCS Length: 339
+   tulp3_dr... LCS Length: 182
+   DmKINGTUBBY... LCS Length: 254
+   CeTUB-1... LCS Length: 233
+   AtTLP7... LCS Length: 178
+   AtTLP10... LCS Length: 193
+   AtTLP5... LCS Length: 179
+   AtTLP2... LCS Length: 180
+()
+[9/16] tulp3_mm...
+   tulp3_dr... LCS Length: 164
+   DmKINGTUBBY... LCS Length: 244
+   CeTUB-1... LCS Length: 226
+   AtTLP7... LCS Length: 181
+   AtTLP10... LCS Length: 190
+   AtTLP5... LCS Length: 178
+   AtTLP2... LCS Length: 178
+()
+[10/16] tulp3_dr...
+   DmKINGTUBBY... LCS Length: 150
+   CeTUB-1... LCS Length: 138
+   AtTLP7... LCS Length: 127
+   AtTLP10... LCS Length: 141
+   AtTLP5... LCS Length: 133
+   AtTLP2... LCS Length: 129
+()
+[11/16] DmKINGTUBBY...
+   CeTUB-1... LCS Length: 230
+   AtTLP7... LCS Length: 181
+   AtTLP10... LCS Length: 193
+   AtTLP5... LCS Length: 182
+   AtTLP2... LCS Length: 181
+()
+[12/16] CeTUB-1...
+   AtTLP7... LCS Length: 182
+   AtTLP10... LCS Length: 183
+   AtTLP5... LCS Length: 177
+   AtTLP2... LCS Length: 180
+()
+[13/16] AtTLP7...
+   AtTLP10... LCS Length: 229
+   AtTLP5... LCS Length: 221
+   AtTLP2... LCS Length: 220
+()
+[14/16] AtTLP10...
+   AtTLP5... LCS Length: 303
+   AtTLP2... LCS Length: 253
+()
+[15/16] AtTLP5...
+   AtTLP2... LCS Length: 242
+()
+[16/16] AtTLP2...
+()
+Group tulp3_bt:
+   Name: tulp3_xt       Length of LCS: 332
+   Name: tulp3_cf       Length of LCS: 385
+Group tulp3_xt:
+   Name: CeTUB-1        Length of LCS: 234
+   Name: tulp3_dr       Length of LCS: 192
+   Name: DmKINGTUBBY    Length of LCS: 263
+Group tulp3_rn:
+   Name: tulp3_bt       Length of LCS: 386
+   Name: tulp3_gg20     Length of LCS: 355
+   Name: tulp3_ms       Length of LCS: 443
+Group tulp3_hs:
+   Name: tulp3_mm       Length of LCS: 422
+   Name: tulp3_pt       Length of LCS: 269
+Group tulp3_mm:
+   Name: tulp3_hs       Length of LCS: 422
+Group AtTLP5:
+   Name: AtTLP10        Length of LCS: 303
+Group AtTLP10:
+   Name: AtTLP2         Length of LCS: 253
+   Name: AtTLP5         Length of LCS: 303
+   Name: AtTLP7         Length of LCS: 229
+Group tulp3_ms:
+   Name: tulp3_rn       Length of LCS: 443
